@@ -1,5 +1,7 @@
 # So_long
 
+[![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/so_long/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/so_long) (My own code is A+, Library files have mistakes)
+
 *"This project is a very small 2D game.
 Its purpose is to make you work with textures, sprites,
 and some other very basic gameplay elements."*
