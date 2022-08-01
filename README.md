@@ -1,4 +1,4 @@
-# So_long
+# So_long 🐬
 
 [![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/so_long/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/so_long) (My own code is A+, Library files have mistakes)
 
